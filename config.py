@@ -48,13 +48,13 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
-• ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/sewxiy>ᴍɪᴋᴇʏ</a>
-• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/otakuflix_network>ᴏᴛᴀᴋᴜғʟɪx</a> 
-• ᴍᴏᴠɪᴇs : <a href=https://t.me/movieflix_original>ᴍᴏᴠɪᴇғʟɪx</a>
-• sᴇʀɪᴇs : <a href=https://t.me/seriesflix_original>sᴇʀɪᴇsғʟɪx</a>
-• ᴀɴɪᴍᴇ: <a href=https://t.me/anime_cruise_netflix>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/weebzonex>ᴡᴇᴇʙᴢᴏɴᴇ</a>
-• ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://codeflix_bots>ᴠᴘs</a>
+• ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/MXNITRO>ᴍɪᴋᴇʏ</a>
+• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/HENTAI_BOY>ᴏᴛᴀᴋᴜғʟɪx</a> 
+• ᴍᴏᴠɪᴇs : <a href=https://t.me/HENTAI_BOY>ᴍᴏᴠɪᴇғʟɪx</a>
+• sᴇʀɪᴇs : <a href=https://t.me/HENTAI_BOY>sᴇʀɪᴇsғʟɪx</a>
+• ᴀɴɪᴍᴇ: <a href=https://t.me/HENTAI_BOY>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
+• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/HENTAI_BOY>ᴡᴇᴇʙᴢᴏɴᴇ</a>
+• ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://HENTAI_BOY>ᴠᴘs</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -78,7 +78,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
 
 
-<b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <a href=https://t.me/otakuflix_network>ᴏᴛᴀᴋᴜғʟɪx</a>
+<b>➜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:</b> <a href=https://t.me/MXNITRO</a>
 """
 
     SEND_METADATA = """
@@ -86,9 +86,9 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @team_netflix" -metadata author="@Codeflix_bots" -metadata:s:s title="Subtitled By :- @Team_netflix" -metadata:s:a title="By :- @team_netflix" -metadata:s:v title="By:- @Codeflix_bots" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @mxnitrp" -metadata author="@mxnitro" -metadata:s:s title="Subtitled By :- @mxnitro" -metadata:s:a title="By :- @mxnitro" -metadata:s:v title="By:- @mxnitro" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Codeflix_bots
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @MXNITRO
 """
 
     PROGRESS_BAR = """<b>\n
