@@ -49,12 +49,12 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
 • ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/MXNITRO>ᴍɪᴋᴇʏ</a>
-• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/HANIME_BOY>ᴏᴛᴀᴋᴜғʟɪx</a> 
-• ᴍᴏᴠɪᴇs : <a href=https://t.me/HANIME_BOY>ᴍᴏᴠɪᴇғʟɪx</a>
-• sᴇʀɪᴇs : <a href=https://t.me/HANIME_BOY>sᴇʀɪᴇsғʟɪx</a>
-• ᴀɴɪᴍᴇ: <a href=https://t.me/HANIME_BOY>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/HANIME_BOY>ᴡᴇᴇʙᴢᴏɴᴇ</a>
-• ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://HANIME_BOY>ᴠᴘs</a>
+• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/HANIME_BOYS>ᴏᴛᴀᴋᴜғʟɪx</a> 
+• ᴍᴏᴠɪᴇs : <a href=https://t.me/HANIME_BOYS>ᴍᴏᴠɪᴇғʟɪx</a>
+• sᴇʀɪᴇs : <a href=https://t.me/HANIME_BOYS>sᴇʀɪᴇsғʟɪx</a>
+• ᴀɴɪᴍᴇ: <a href=https://t.me/HANIME_BOYS>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
+• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/HANIME_BOYS>ᴡᴇᴇʙᴢᴏɴᴇ</a>
+• ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://HANIME_BOYS>ᴠᴘs</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
