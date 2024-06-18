@@ -88,6 +88,3 @@ def main():
     loop.run_until_complete(start_services())
     loop.run_forever()
 
-if __name__ == "__main__":
-    warnings.filterwarnings("ignore", message="There is no current event loop")
-    main()
