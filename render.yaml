@@ -4,7 +4,7 @@ services:
     name: RenameSnowProBot
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python3 -m Bot
+    startCommand: python3 Bot
     repo: https://github.com/YesawiniYuvaraj/ProRenameBot
     branch: main
     autoDeploy: false
