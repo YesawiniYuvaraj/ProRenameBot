@@ -7,9 +7,9 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID = os.environ.get("API_ID", "")  # ⚠️ Required
-    API_HASH = os.environ.get("API_HASH", "")  # ⚠️ Required
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")  # ⚠️ Required
+    API_ID = os.environ.get("API_ID", "25698862")  # ⚠️ Required
+    API_HASH = os.environ.get("API_HASH", "7d7739b44f5f8c825d48cc6787889dbc")  # ⚠️ Required
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7899357936:AAGNqjNpylTFhblug98DuiGSEUEdc_rRlxA")  # ⚠️ Required
 
     # premium 4g renaming client
     STRING_API_ID = os.environ.get("STRING_API_ID", "")
@@ -18,16 +18,16 @@ class Config(object):
 
     # database config
     DB_NAME = os.environ.get("DB_NAME", "Cluster0")
-    DB_URL = os.environ.get("DB_URL", "")  # ⚠️ Required
+    DB_URL = os.environ.get("DB_URL", "mongodb+srv://sufyan532011:<db_password>@cluster0.pp20r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")  # ⚠️ Required
 
     # other configs
     BOT_UPTIME = time.time()
     START_PIC = os.environ.get("START_PIC", "")
     ADMIN = [int(admin) if id_pattern.search(
-        admin) else admin for admin in os.environ.get('ADMIN', '').split()]  # ⚠️ Required
+        admin) else admin for admin in os.environ.get('ADMIN', '6651534688, 7019600964').split()]  # ⚠️ Required
     
-    FORCE_SUB = os.environ.get("FORCE_SUB", "") # ⚠️ Required Username without @
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))  # ⚠️ Required
+    FORCE_SUB = os.environ.get("FORCE_SUB", "MIRACULESLADYBUGSEASON6INENGLISH") # ⚠️ Required Username without @
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002111227868"))  # ⚠️ Required
     FLOOD = int(os.environ.get("FLOOD", '10'))
     BANNED_USERS = set(int(x) for x in os.environ.get(
         "BANNED_USERS", "1234567890").split())
@@ -48,13 +48,13 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
-• ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/MXNITRO>ᴍɪᴋᴇʏ</a>
-• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/HANIME_BOYS>ᴏᴛᴀᴋᴜғʟɪx</a> 
-• ᴍᴏᴠɪᴇs : <a href=https://t.me/HANIME_BOYS>ᴍᴏᴠɪᴇғʟɪx</a>
-• sᴇʀɪᴇs : <a href=https://t.me/HANIME_BOYS>sᴇʀɪᴇsғʟɪx</a>
-• ᴀɴɪᴍᴇ: <a href=https://t.me/HANIME_BOYS>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/HANIME_BOYS>ᴡᴇᴇʙᴢᴏɴᴇ</a>
-• ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://HANIME_BOYS>ᴠᴘs</a>
+• ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Yuvi1poke_lover>ᴍɪᴋᴇʏ</a>
+• ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/aurabotsmnxᴏᴛᴀᴋᴜғʟɪx</a> 
+• ᴍᴏᴠɪᴇs : <a href=https://t.me/aurabotsmnx>ᴍᴏᴠɪᴇғʟɪx</a>
+• sᴇʀɪᴇs : <a href=https://t.me/aurabotsmnx>sᴇʀɪᴇsғʟɪx</a>
+• ᴀɴɪᴍᴇ: <a href=https://t.me/aurabotsmnx>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
+• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/aurabotsmnx>ᴡᴇᴇʙᴢᴏɴᴇ</a>
+• ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://t.me/aurabotsmnx>ᴠᴘs</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -88,7 +88,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 ◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @mxnitrp" -metadata author="@mxnitro" -metadata:s:s title="Subtitled By :- @mxnitro" -metadata:s:a title="By :- @mxnitro" -metadata:s:v title="By:- @mxnitro" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @MXNITRO
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @YUVI1POKE_LOVER
 """
 
     PROGRESS_BAR = """<b>\n
