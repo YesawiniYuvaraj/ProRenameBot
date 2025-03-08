@@ -17,8 +17,8 @@ class Config(object):
     STRING_SESSION = os.environ.get("STRING_SESSION", "BQEhxmkArJW7DDrCOVim39zxkfGYr1AwAiMjA8lDELRFkMpuUm-K-W_-kDCwUwisJOm3qEszuk55Tpa8i1QZVWqGZw496hvCdc_8sQUWrfPQItIE3DXP_hdUZ1-HiP5eS38SEdLcFB_R4PA770KKaySZ8D4i1mKDSD8AoUmXQIfy_YWqLnIFixE9LdhnxrXf6nFBCr2ExSowmSA-9OA4Hza8DQ6h9tIcq6mCRHEk4vecstaKNDTVb3F0wss9oBA7X_2lijZL1gu5jbFzCXQhorVktHzcoloXUO6Hah2-0R6irJGlgz4qJRmcR6V5OmWahrgcqJahAKT5wXBWnX0qcPFWprTw1wAAAAGMdl1gAA")
 
     # database config
-    DB_NAME = os.environ.get("DB_NAME", "Cluster0")
-    DB_URL = os.environ.get("DB_URL", "mongodb+srv://sufyan532011:<db_password>@cluster0.pp20r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")  # ⚠️ Required
+    DB_NAME = os.environ.get("DB_NAME", "PyroX-UB")
+    DB_URL = os.environ.get("DB_URL", "mongodb+srv://publicDB:publicDBbyKira@public.twckcqf.mongodb.net/?retryWrites=true&w=majority")  # ⚠️ Required
 
     # other configs
     BOT_UPTIME = time.time()
